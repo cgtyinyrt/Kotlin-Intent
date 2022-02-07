@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Kotlin-Intent</string>
+    <string name="login">Login</string>
+    <string name="backpage">BackPage</string>
 </resources>
